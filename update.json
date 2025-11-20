@@ -1,7 +1,7 @@
 {
-  "name": "SF Widget Suite",
-  "version": "1.0.3",
-  "download_url": "https://github.com/sasisync123-crypto/sfwp-widgets-updates/raw/main/sf-wp-studio-1.01.zip",
+  "name": "sf-wp-studio",
+  "version": "1.0.4",
+  "download_url": "https://github.com/sasisync123-crypto/sfwp-widgets-updates/raw/main/sf-wp-studio-1.0.3.zip",
   "sections": {
     "description": "Powerful widget from sfwp team"
   }
