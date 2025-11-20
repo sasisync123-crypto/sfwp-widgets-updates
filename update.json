@@ -1,0 +1,8 @@
+{
+  "name": "sf-wp-studio",
+  "version": "1.0",
+  "download_url": "https://example.com/my-widget-plugin-1.2.zip",
+  "sections": {
+    "description": "Plugin description here."
+  }
+}
